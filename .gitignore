@@ -21,12 +21,12 @@ gradle-app.setting
 .classpath
 
 #Extra
-.jpg
-.jpeg
+*.jpg
+*.jpeg
 /test
 /androidTest
-.docx
-.pptx
+*.docx
+*.pptx
 /shelf/
 /workspace.xml
 .idea/
