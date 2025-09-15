@@ -19,3 +19,14 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+#Extra
+.jpg
+.jpeg
+/test
+/androidTest
+.docx
+.pptx
+
+
+
